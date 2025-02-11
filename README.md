@@ -1,5 +1,9 @@
 # mern-chakra-product-store
 
+!!! Note
+
+    This is an updated version (Chakra UI v3.x) of https://github.com/burakorkmez/mern-crash-course
+
 ## Tech Stack
 - MongoDB
 - Express

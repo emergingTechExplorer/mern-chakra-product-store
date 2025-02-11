@@ -9,6 +9,13 @@
 - Node.js
 - Chakra UI v3.x
 
+## Setup `.env` file
+
+```sh
+MONGO_URI=your_mongo_uri
+PORT=5000
+```
+
 ## How to run 
 
 ### For Production

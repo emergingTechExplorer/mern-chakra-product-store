@@ -4,9 +4,9 @@
 
 ## Tech Stack
 - MongoDB
-- Express
-- React
-- NodeJS
+- Express.js
+- React.js
+- Node.js
 - Chakra UI v3.x
 
 ## How to run 

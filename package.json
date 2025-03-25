@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "dev": "NODE_ENV=development backend/server.js",
+    "dev": "NODE_ENV=development node backend/server.js",
     "build": "npm install && npm install --prefix frontend && npm run build --prefix frontend",
     "start": "NODE_ENV=production node backend/server.js"
   },
